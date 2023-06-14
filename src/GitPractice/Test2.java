@@ -1,5 +1,3 @@
-package GitPractice;
-
 public class Test2 {
 
 //Cloning this repo
@@ -13,4 +11,8 @@ public class Test2 {
 	System.out.println("prashant");
 	System.out.println("prashant");
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> branchX
