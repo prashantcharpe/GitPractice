@@ -11,14 +11,7 @@ public class Test2 {
 	System.out.println("prashant");
 	}
 
-
-
 	public static void main1() {
-	System.out.println("prashant");
-	System.out.println("prashant");
-	}
-
-		public static void main2() {
 	System.out.println("prashant");
 	System.out.println("prashant");
 	}
